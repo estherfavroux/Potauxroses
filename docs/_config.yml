@@ -1,0 +1,11 @@
+# Site settings
+title: Mon site web
+description: Mon super site web
+url: https://estherfavroux.github.io/Potauxroses/
+
+# Build settings
+theme: 
+
+# Disable contributions
+show_downloads: false
+repository: ""
