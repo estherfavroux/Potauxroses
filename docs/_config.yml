@@ -9,3 +9,4 @@ theme:
 # Disable contributions
 show_downloads: false
 repository: ""
+edit_link: false
